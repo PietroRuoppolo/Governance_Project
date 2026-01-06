@@ -1,4 +1,4 @@
-# 🛡️ AWS Security & Governance Project – ECS Fargate & Inspector
+# 🛡️ AWS Security & Governance Project
 
 ## 📖 Descrizione
 
