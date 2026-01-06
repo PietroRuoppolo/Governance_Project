@@ -2,7 +2,7 @@
 
 ## 📖 Descrizione
 
-Questo progetto mostra come progettare e distribuire un ambiente **AWS sicuro e governato** per un’applicazione containerizzata in **ECS Fargate**, integrando:
+Questo progetto mostra come progettare e distribuire un ambiente **AWS sicuro e gestito** per un’applicazione containerizzata in **ECS Fargate**, integrando:
 
 - VPC dedicata con subnet pubbliche e private  
 - Application Load Balancer pubblico + **CloudFront** come front-end  
